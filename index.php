@@ -1,4 +1,7 @@
-<?php include("conn.php"); include "tbody.php"; $tbody=new tbody();?>
+<?php 
+include("conn.php"); 
+include "tbody.php"; $tbody=new tbody();
+?>
 <input type="button" class="btn btn-info barcodes" value="asd">
 <div class="container-fluid mt-4">
   <div class="row">
